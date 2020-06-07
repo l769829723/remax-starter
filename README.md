@@ -31,3 +31,8 @@ $ yarn build wechat
 ```
 
 使用小程序开发者工具打开项目下的 `dist/[target]` 目录，上传代码即可。
+
+# Features
+
+- enabled less
+- enabled constate
