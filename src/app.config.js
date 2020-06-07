@@ -3,7 +3,7 @@ const pages = ["pages/index/index"];
 module.exports.ali = {
   pages,
   window: {
-    defaultTitle: "WeLearn",
+    defaultTitle: "Ali Mini Program template",
     titleBarColor: "#FFFFFF",
   },
 };
@@ -11,7 +11,7 @@ module.exports.ali = {
 module.exports.wechat = {
   pages,
   window: {
-    navigationBarTitleText: "WeLearn",
+    navigationBarTitleText: "WeChat Mini Program template",
     navigationBarBackgroundColor: "#FFFFFF",
     navigationBarTextStyle: "black",
   },
@@ -23,7 +23,7 @@ module.exports.wechat = {
 module.exports.toutiao = {
   pages,
   window: {
-    navigationBarTitleText: "WeLearn",
+    navigationBarTitleText: "Toutiao Mini Program template",
     navigationBarBackgroundColor: "#FFFFFF",
   },
 };
