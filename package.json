@@ -1,0 +1,24 @@
+{
+  "name": "welearn",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A mini program for learning english",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Evan <1054473703@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "remax build -w -t",
+    "build": "cross-env NODE_ENV=production remax build -t"
+  },
+  "dependencies": {
+    "@remax/plugin-less": "^1.0.0",
+    "constate": "^2.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "remax": "^2.3.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
